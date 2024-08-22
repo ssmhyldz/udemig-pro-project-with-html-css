@@ -1,5 +1,11 @@
+FEATURED PROJECT
+<br>
 Here it is my udemig school project.Created to with html and css.
-
+<br>
+You can find sections containing information about the school.
+<br>
+You can review it in the video below.&#128071;
+<br>
 
 
 
